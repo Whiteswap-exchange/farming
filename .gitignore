@@ -1,0 +1,9 @@
+node_modules
+coverage
+.idea/
+artifacts
+cache
+.env
+error.txt
+coverage.json
+.DS_Store
